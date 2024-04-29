@@ -12,6 +12,7 @@
     }
   ],
   "sites": [
+    {"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
     {
         "key": "火狐",
         "name": "📛挺好69【2024/3/20】",
