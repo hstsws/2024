@@ -188,7 +188,7 @@
       "key": "奥斯卡资源",
       "name": "🔞奥斯卡资源",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod",
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
