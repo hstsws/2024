@@ -184,6 +184,15 @@
       "searchable": 0,
       "quickSearch": 0
     },
+ {
+      "key": "奥斯卡资源",
+      "name": "🔞奥斯卡资源",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "鸡坤资源",
       "name": "🔞鸡坤资源",
